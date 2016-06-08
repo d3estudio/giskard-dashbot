@@ -1,0 +1,19 @@
+{
+  "name": "dashbot",
+  "version": "1.0.0",
+  "description": "Posts news and updates on your interactive news feed",
+  "main": "src/dashbot.js",
+  "author": "Jonathan Querubina <jotadev@me.com>",
+  "contributors": [],
+  "license": "MIT",
+  "giskard": {
+    "module": "Dashbot",
+    "created": "Tue Jun 07 2016 22:23:19 GMT-0300 (BRT)",
+    "help": {
+      "posta no dashbot o titulo <titulo>, com a descricao <descricao>, com a duracao <numero de dias>, e a imagem <url>": "Faz um post no dashbot  (use imgsafe.org para hospedar a imagem)",
+      "listar todos os posts do dashbot": "Lista todos os posts ativos do dashbot",
+      "deleta o post <titulo> do dashbot": "Deleta um post do dashbot"
+    }
+  },
+  "dependencies": {}
+}
